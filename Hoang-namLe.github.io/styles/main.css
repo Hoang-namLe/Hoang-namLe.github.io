@@ -1,0 +1,29 @@
+
+body
+{background:white;
+
+font-family: 'Sedgwick Ave', cursive;
+}
+h1
+{color:blue}
+ol
+{font-weight: bold;}
+
+a
+{text-decoration:none;}
+#nav_bar
+{border-style:solid;}
+#nav_bar
+{border-radius:20px;}
+a
+{color:red}
+#nav_bar
+{background-color:yellow;}
+
+#bio
+{letter-spacing: -3px}
+
+#nav_bar
+{font-size: 5em}
+#nav_bar
+{word-spacing: 15px}
